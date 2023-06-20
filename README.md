@@ -3,7 +3,8 @@
 <h2>With Luppufy, you can use your Discord Profile on Websites, Github Profile and Many Other Places You Want, via API, without being connected to any Discord Server.</h2>
 <br> </br>
 <h3>❓ How to use</h3>
-It is enough to write your Discord User ID in the " ID " section below.
+
+It is enough to write your Discord User ID in the " ID " section below or You can do it on the [**https://luppufy.onrender.com**](https://luppufy.onrender.com) website too!.
 <br> </br>
 
 ```
