@@ -8,22 +8,26 @@ It is enough to write your Discord User ID in the " ID " section below or You ca
 <br> </br>
 
 ```
-https://luppufy.onrender.com/<ID>
+https://luppufy.onrender.com/v2/<ID>
 
-<img src="https://luppufy.onrender.com/<ID>">
+<img src="https://luppufy.onrender.com/v2/<ID>">
 ```
 
 And if you want, you can add a colored frame to your profile card, just add " ?border=hexColor ".
+And if you want, you can add a colored theme to your profile card, just add " ?theme=hexColor ".
 
 ```
-https://luppufy.onrender.com/<ID>?border=<hexColor>
+https://luppufy.onrender.com/v2/<ID>?border=<hexColor>
 
-<img src="https://luppufy.onrender.com/<ID>?border=<hexColor>">
+<img src="https://luppufy.onrender.com/v2/<ID>?border=<hexColor>">
+
+<img src="https://luppufy.onrender.com/v2/<ID>?theme=<hexColor>">
 ```
 
 <h3>🥳 And Results;</h3>
-<a href="#"> <img src="https://luppufy.onrender.com/928259219038302258"> </a>
-<a href="#"> <img src="https://luppufy.onrender.com/928259219038302258?border=ff0000"> </a>
+<a href="#"> <img width="270px" src="https://luppufy.onrender.com/v2/928259219038302258"> </a>
+<a href="#"> <img width="270px" src="https://luppufy.onrender.com/v2/928259219038302258?border=ff0000"> </a>
+<a href="#"> <img width="270px" src="https://luppufy.onrender.com/v2/928259219038302258?border=ff0000&theme=000000"> </a>
 <br> </br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9D06E6&repeat=false&width=435&lines=Contact+%26+Support+%26+Donate)](#)
